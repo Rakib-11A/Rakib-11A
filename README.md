@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**Rakib-11A/Rakib-11A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer passionate about building scalable backend systems and solving real-world business problems through clean, maintainable software.
 
-Here are some ideas to get you started:
+- 🔭 Currently working as a Ruby on Rails Engineer
+- 🌱 Exploring System Design & Distributed Systems
+- 💻 Building scalable FinTech & E-commerce applications
+- 🚀 Learning FastAPI, Go, and Clean Architecture
+- ⚡ Passionate about Backend Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🛠 Tech Stack
+- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,nextjs,postgres,git,docker" />
+  </a>
+</p>
