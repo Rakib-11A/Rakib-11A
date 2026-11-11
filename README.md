@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Rakib Hasan
 
-### Software Engineer | Ruby on Rails Engineer | Backend Developer
+### Software Engineer | Nodejs Engineer | Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Ruby+on+Rails+Engineer;Backend+Developer;Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+Scalable+Backend+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;Nodejs+Engineer;Backend+Developer;Node.js+%7C+TypeScript+%7C+PostgreSQL;Building+Scalable+Backend+Systems" />
 
 </div>
 
@@ -16,8 +16,8 @@ I'm a passionate **Software Engineer** specializing in **Backend Development** w
 
 I enjoy solving real-world engineering problems by designing scalable architectures, writing clean and maintainable code, and continuously learning modern technologies.
 
-- 💼 Software Engineer (Ruby on Rails)
-- 🌱 Currently learning **System Design**, **Distributed Systems**, **FastAPI**, and **Go**
+- 💼 Software Engineer (Nodejs)
+- 🌱 Currently learning **System Design**, **Distributed Systems**, and **Go**
 - 🚀 Building scalable backend systems and REST APIs
 - 🔐 Experienced in FinTech & Payment Integration
 - 🛒 Experienced in Production E-commerce Platforms
@@ -30,7 +30,7 @@ I enjoy solving real-world engineering problems by designing scalable architectu
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,typescript,javascript,nextjs,express,postgres,mysql,redis,docker,git,github,linux,html,css,vscode&perline=9"/>
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,nextjs,express,ruby,rails,postgres,mysql,redis,docker,git,github,linux,html,css,vscode&perline=9"/>
 
 </p>
 
@@ -38,7 +38,7 @@ I enjoy solving real-world engineering problems by designing scalable architectu
 
 # 💼 Professional Experience
 
-### Ruby on Rails Engineer
+### Nodejs Engineer
 
 - Develop production-ready backend applications
 - Design scalable RESTful APIs
@@ -124,7 +124,7 @@ Enterprise digital document management platform.
 
 **Tech**
 
-Ruby on Rails • PostgreSQL • REST API
+Nodejs • Express.js • TypeScript • MySQL • EJS • REST API
 
 ---
 
@@ -190,7 +190,6 @@ Ruby on Rails • PostgreSQL • REST API
 
 - System Design
 - Distributed Systems
-- FastAPI
 - Go
 - Microservices
 - Software Architecture
